@@ -1,2 +1,5 @@
 # hello-world
-learning by doing init
+
+ok deleted that bit
+
+it's not so easy but also not so difficult init
